@@ -2,6 +2,11 @@
 
 This is your newly scaffolded Backstage App, Good Luck!
 
+## Running/Contributing from a browser IDE 
+Make changes and contribute to this repo in a single click with an **already setup and ready to code developer environment** using Gitpod !
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Kendralabs/backstage)
+
 ## Local environment
 To start the app, create your .env file from the `.env.template` file and insert these required env variables:
 
